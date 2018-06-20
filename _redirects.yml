@@ -1,2 +1,5 @@
 ---
-- redirect-to-home/: /
+- d: e
+- d/: e
+- D: e
+- D/: e
